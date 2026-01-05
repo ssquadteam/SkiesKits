@@ -21,6 +21,7 @@
     "fabricloader": ">=0.16.0",
     "fabric": "*",
     "fabric-language-kotlin": ">=1.11.0",
-    "fabric-permissions-api-v0": "*"
+    "fabric-permissions-api-v0": "*",
+    "filament": "*"
   }
 }
